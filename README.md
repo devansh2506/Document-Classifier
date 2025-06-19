@@ -54,4 +54,5 @@ Test Accuracy: Achieved 81.7% accuracy on the test set.
 
 The model shows strong performance in recognizing and classifying scanned documents into the defined categories.
 
+![image](https://github.com/user-attachments/assets/bc63809e-d3f4-4b7d-9805-3d402135aead)
 
